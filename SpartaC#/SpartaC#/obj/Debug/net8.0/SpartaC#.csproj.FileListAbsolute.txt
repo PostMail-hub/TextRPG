@@ -1,0 +1,14 @@
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\bin\Debug\net8.0\SpartaC#.exe
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\bin\Debug\net8.0\SpartaC#.deps.json
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\bin\Debug\net8.0\SpartaC#.runtimeconfig.json
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\bin\Debug\net8.0\SpartaC#.dll
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\bin\Debug\net8.0\SpartaC#.pdb
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\obj\Debug\net8.0\SpartaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\obj\Debug\net8.0\SpartaC#.AssemblyInfoInputs.cache
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\obj\Debug\net8.0\SpartaC#.AssemblyInfo.cs
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\obj\Debug\net8.0\SpartaC#.csproj.CoreCompileInputs.cache
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\obj\Debug\net8.0\SpartaC#.dll
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\obj\Debug\net8.0\refint\SpartaC#.dll
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\obj\Debug\net8.0\SpartaC#.pdb
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\obj\Debug\net8.0\SpartaC#.genruntimeconfig.cache
+C:\Users\gmlal\source\repos\SpartaC#\SpartaC#\obj\Debug\net8.0\ref\SpartaC#.dll
